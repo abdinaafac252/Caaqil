@@ -1,0 +1,32 @@
+header{
+  background-color: lightpink;
+  font-weight:bold;
+  font-size:medium;
+  color:#fff;
+  
+}
+nav{
+  text-decoration: none;
+}
+p{
+  background-color:lightblue;
+  font-style: italic;
+  color:#fff;
+}
+ul{
+  background: lightcoral;
+  color:#fff;
+  font-size: small;
+  
+}
+h2{
+  background: lightskyblue;
+  color:#fff;
+  font-size: medium;
+  font-weight:bold;
+}
+ol{
+  background: lightcoral;
+  color:#fff;
+  font-size:small;
+}
